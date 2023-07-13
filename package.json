@@ -1,0 +1,26 @@
+{
+  "name": "nesun3-twitter-api",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "A Simple Twitter API built using with Node.js and Express.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "lowdb": "^6.0.1",
+    "lodash": "^4.17.21",
+    "email-validator": "^2.0.4",
+    "nanoid": "^3.3.6"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
